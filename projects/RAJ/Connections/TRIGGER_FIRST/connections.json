@@ -1,1 +1,1 @@
-[{"connectionProperties":[],"role":"SOURCE","securityProperties":[],"name":"Trigger_first","privateEndpoint":false,"id":"TRIGGER_FIRST","securityPolicy":"MULTI_TOKEN_INBOUND","adapterType":{"displayName":"REST","name":"rest","links":[],"type":"PREINSTALLED"}}]
+[{"connectionProperties":[],"role":"SOURCE","securityProperties":[],"name":"Trigger_first 2","privateEndpoint":false,"id":"TRIGGER_FIRST","securityPolicy":"MULTI_TOKEN_INBOUND","adapterType":{"displayName":"REST","name":"rest","links":[],"type":"PREINSTALLED"}}]
