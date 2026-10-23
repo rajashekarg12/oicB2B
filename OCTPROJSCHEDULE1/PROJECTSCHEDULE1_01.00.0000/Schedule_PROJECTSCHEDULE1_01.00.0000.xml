@@ -8,7 +8,7 @@
         <weeks-of-month></weeks-of-month>
         <days-of-month></days-of-month>
                 <days-of-week>    
-    <day>MONDAY</day>
+    <day>WEDNESDAY</day>
             </days-of-week> 
         <ical-expression>FREQ=WEEKLY;</ical-expression>
     </recurrence>
