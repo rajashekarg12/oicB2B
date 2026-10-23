@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schedule name="Schedule_CTR_FTP_RECEIVE_01_00_0000" xsi:schemaLocation="http://xmlns.oracle.com/scheduler" xmlns="http://xmlns.oracle.com/scheduler" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <include-date>
+        <year>2026</year>
+        <month>10</month>
+        <day>31</day>
+        <time>16:7:0</time>
+    </include-date>
+    <display-name>Schedule CTR_FTP_RECEIVE_01_00_0000</display-name>
+    <time-zone>Asia/Calcutta</time-zone>
+</schedule>
