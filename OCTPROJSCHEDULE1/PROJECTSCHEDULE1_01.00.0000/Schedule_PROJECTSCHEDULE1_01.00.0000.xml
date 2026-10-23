@@ -7,7 +7,9 @@
         <months-of-year></months-of-year>
         <weeks-of-month></weeks-of-month>
         <days-of-month></days-of-month>
-        <days-of-week></days-of-week>
+                <days-of-week>    
+    <day>MONDAY</day>
+            </days-of-week> 
         <ical-expression>FREQ=WEEKLY;</ical-expression>
     </recurrence>
     <time-zone>Asia/Tashkent</time-zone>
