@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<schedule name="Schedule_PROJECTSCHEDULE1_01_00_0000" xsi:schemaLocation="http://xmlns.oracle.com/scheduler" xmlns="http://xmlns.oracle.com/scheduler" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <display-name>Schedule PROJECTSCHEDULE1_01_00_0000</display-name>
+    <recurrence>
+        <interval>1</interval>
+        <count>0</count>
+        <months-of-year></months-of-year>
+        <weeks-of-month></weeks-of-month>
+        <days-of-month></days-of-month>
+        <days-of-week></days-of-week>
+        <ical-expression>FREQ=WEEKLY;</ical-expression>
+    </recurrence>
+    <time-zone>Asia/Tashkent</time-zone>
+</schedule>
